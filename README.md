@@ -1,4 +1,4 @@
-![logo](https://github.com/bkrsingh1008/bkrsingh1008/blob/main/github%20banner.png)
+![logo](https://github.com/SangeetG11/SangeetG11/blob/main/github-header-image1.png)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Sangeet Gharai</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
