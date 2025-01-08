@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=790b7611w7r4d8v2j8ovl9l3qoowy1378fpufp8ag9bl7b9s&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning: **Power BI, SQL, Python, Excel**
+- 🌱 I’m skilled in: **Power BI, SQL, Python, Excel**
 
 - 📫 How to reach me: **sangeetgharai.work@gmail.com**
 
